@@ -1,0 +1,17 @@
+{
+  "max_seen_msg": "8",
+  "dc4_server_salt": "\"\"",
+  "dc2_auth_key": "\"\"",
+  "dc5_auth_key": "\"\"",
+  "tgme_sync": "{\"canRedirect\":true,\"ts\":1615143726}",
+  "server_time_offset": "0",
+  "dc2_server_salt": "\"\"",
+  "dc1_auth_key": "\"\"",
+  "dc1_server_salt": "\"\"",
+  "dc5_server_salt": "\"\"",
+  "user_auth": "{\"dcID\":\"\",\"id\":}",
+  "all_stickers": "{\"hash\":0,\"sets\":[],\"date\":,\"layer\":74,\"fullSets\":{},\"emojiIndex\":{}}",
+  "xt_instance": "{\"id\":,\"idle\":true,\"time\":}",
+  "dc": "\"4\"",
+  "dc4_auth_key": "\"\""
+}
